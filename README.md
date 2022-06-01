@@ -20,8 +20,8 @@ details><summary> TELENGRAM </summary>
 <p>
 <br>
 
- <a href="https://t.me/OGGYMAMAN">
-* <img src="https://www.herokucdn.com/TELENGRAM/button.svg" alt="TELENGRAM">
+ <a href="https://t.me/TERMUXHACKERSPO">
+* <img src="https://www.herokucdn.com/DEPLOY/button.svg" alt="TELENGRAM">
 </a>
 </p>
 </details>
