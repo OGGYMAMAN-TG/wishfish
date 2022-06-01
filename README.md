@@ -14,7 +14,18 @@ $ bash wishfish.sh
 
 CREATED BY OGGYMAMAN
 
-TELENGRAM 
+
+###TELEGRAM
+details><summary> TELENGRAM </summary>
+<p>
+<br>
+
+ <a href="https://t.me/OGGYMAMAN">
+* <img src="https://www.herokucdn.com/TELENGRAM/button.svg" alt="TELENGRAM">
+</a>
+</p>
+</details>
+
 
 
 
