@@ -12,5 +12,9 @@ $ cd WishFish
 
 $ bash wishfish.sh
 
+CREATED BY OGGYMAMAN
+
+TELENGRAM 
+
 
 
